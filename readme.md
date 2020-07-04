@@ -9,3 +9,4 @@ Código desenvolvido durante a aceleração python da [codenation](https://www.c
 * [semana 5](python-9/)
 * [semana 6](python-10/)
 * [semana 7](python-11/)
+* [semana 8](python-12/)
